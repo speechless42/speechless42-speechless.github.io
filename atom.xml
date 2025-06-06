@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zayn の 夢が集まる場所</title>
-  <icon>https://github.com/speechless42/speechless42.github.io/icon.png</icon>
+  <icon>http://example.com/icon.png</icon>
   <subtitle>想做很多事，為此做過很多的夢。</subtitle>
-  <link href="https://github.com/speechless42/speechless42.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/speechless42/speechless42.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2025-05-30T15:45:29.443Z</updated>
-  <id>https://github.com/speechless42/speechless42.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>ZAYN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>逛本部落格指南</title>
-    <link href="https://github.com/speechless42/speechless42.github.io/2025/05/30/HowToRead/"/>
-    <id>https://github.com/speechless42/speechless42.github.io/2025/05/30/HowToRead/</id>
+    <link href="http://example.com/2025/05/30/HowToRead/"/>
+    <id>http://example.com/2025/05/30/HowToRead/</id>
     <published>2025-05-30T08:00:00.000Z</published>
     <updated>2025-05-30T15:45:29.443Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>笑傲股市第二篇運用 CANSLIM篩選公司</title>
-    <link href="https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamCanslim/"/>
-    <id>https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamCanslim/</id>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/williamCanslim/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/williamCanslim/</id>
     <published>2025-05-22T10:00:00.000Z</published>
     <updated>2025-06-06T15:52:30.209Z</updated>
     
@@ -51,14 +51,14 @@
     
     
     
-    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
     
   </entry>
   
   <entry>
     <title>笑傲股市第一篇介紹與技術線</title>
-    <link href="https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamIntroduce/"/>
-    <id>https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamIntroduce/</id>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/williamIntroduce/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/williamIntroduce/</id>
     <published>2025-05-22T10:00:00.000Z</published>
     <updated>2025-06-06T15:52:15.036Z</updated>
     
@@ -68,31 +68,14 @@
     
     
     
-    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>笑傲股市第三篇 如何賣</title>
-    <link href="https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamSellStocks/"/>
-    <id>https://github.com/speechless42/speechless42.github.io/2025/05/22/stocks/william_oneil/williamSellStocks/</id>
-    <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T15:51:17.163Z</updated>
-    
-    
-    <summary type="html">笑傲股市</summary>
-    
-    
-    
-    
-    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
     
   </entry>
   
   <entry>
     <title>笑傲股市完篇心得</title>
-    <link href="https://github.com/speechless42/speechless42.github.io/williamThought/"/>
-    <id>https://github.com/speechless42/speechless42.github.io/williamThought/</id>
+    <link href="http://example.com/williamThought/"/>
+    <id>http://example.com/williamThought/</id>
     <published>2025-05-22T10:00:00.000Z</published>
     <updated>2025-06-06T15:51:46.651Z</updated>
     
@@ -102,7 +85,24 @@
     
     
     
-    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市第三篇 如何賣</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T15:51:17.163Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
     
   </entry>
   
