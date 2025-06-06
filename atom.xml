@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zayn の 夢が集まる場所</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>想做很多事，為此做過很多的夢。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-05-30T15:45:29.443Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ZAYN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>逛本部落格指南</title>
+    <link href="http://example.com/2025/05/30/HowToRead/"/>
+    <id>http://example.com/2025/05/30/HowToRead/</id>
+    <published>2025-05-30T08:00:00.000Z</published>
+    <updated>2025-05-30T15:45:29.443Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先，先歡迎各位大大來與我一起學習!!&lt;/p&gt;
+&lt;h4 id=&quot;怎麼看我要的主題&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#怎麼看我要的主題&quot;&gt;&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市第二篇運用 CANSLIM篩選公司</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/Canslim/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/Canslim/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T07:29:49.531Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市第三篇 如何賣</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/USE/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/USE/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T07:29:24.817Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市第一篇介紹與技術線</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/introduce/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/introduce/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T07:31:47.424Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市完篇心得</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/question/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/question/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T07:30:37.040Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    
+  </entry>
+  
+</feed>
