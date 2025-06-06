@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zayn の 夢が集まる場所</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://github.com/speechless42/speechless42.github.io/icon.png</icon>
   <subtitle>想做很多事，為此做過很多的夢。</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/speechless42/speechless42.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/speechless42/speechless42.github.io/"/>
   <updated>2025-05-30T15:45:29.443Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/speechless42/speechless42.github.io/</id>
   
   <author>
     <name>ZAYN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>逛本部落格指南</title>
-    <link href="http://example.com/2025/05/30/HowToRead/"/>
-    <id>http://example.com/2025/05/30/HowToRead/</id>
+    <link href="https://github.com/speechless42/speechless42.github.io/HowToRead/"/>
+    <id>https://github.com/speechless42/speechless42.github.io/HowToRead/</id>
     <published>2025-05-30T08:00:00.000Z</published>
     <updated>2025-05-30T15:45:29.443Z</updated>
     
@@ -39,45 +39,11 @@
   </entry>
   
   <entry>
-    <title>笑傲股市第三篇 如何賣</title>
-    <link href="http://example.com/2025/05/22/stocks/william_oneil/USE/"/>
-    <id>http://example.com/2025/05/22/stocks/william_oneil/USE/</id>
-    <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T07:37:50.076Z</updated>
-    
-    
-    <summary type="html">笑傲股市</summary>
-    
-    
-    
-    
-    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>笑傲股市完篇心得</title>
-    <link href="http://example.com/2025/05/22/stocks/william_oneil/question/"/>
-    <id>http://example.com/2025/05/22/stocks/william_oneil/question/</id>
-    <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T07:37:52.967Z</updated>
-    
-    
-    <summary type="html">笑傲股市</summary>
-    
-    
-    
-    
-    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
-    
-  </entry>
-  
-  <entry>
     <title>笑傲股市第二篇運用 CANSLIM篩選公司</title>
-    <link href="http://example.com/2025/05/22/stocks/william_oneil/Canslim/"/>
-    <id>http://example.com/2025/05/22/stocks/william_oneil/Canslim/</id>
+    <link href="https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamCanslim/"/>
+    <id>https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamCanslim/</id>
     <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T07:37:51.100Z</updated>
+    <updated>2025-06-06T14:31:33.387Z</updated>
     
     
     <summary type="html">笑傲股市</summary>
@@ -85,16 +51,16 @@
     
     
     
-    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
     
   </entry>
   
   <entry>
     <title>笑傲股市第一篇介紹與技術線</title>
-    <link href="http://example.com/2025/05/22/stocks/william_oneil/introduce/"/>
-    <id>http://example.com/2025/05/22/stocks/william_oneil/introduce/</id>
+    <link href="https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamIntroduce/"/>
+    <id>https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamIntroduce/</id>
     <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T07:37:52.029Z</updated>
+    <updated>2025-06-06T15:01:07.014Z</updated>
     
     
     <summary type="html">笑傲股市</summary>
@@ -102,7 +68,41 @@
     
     
     
-    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市第三篇 如何賣</title>
+    <link href="https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamSellStocks/"/>
+    <id>https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamSellStocks/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T15:13:27.618Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笑傲股市完篇心得</title>
+    <link href="https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamThought/"/>
+    <id>https://github.com/speechless42/speechless42.github.io/stocks/william_oneil/williamThought/</id>
+    <published>2025-05-22T10:00:00.000Z</published>
+    <updated>2025-06-06T15:16:30.573Z</updated>
+    
+    
+    <summary type="html">笑傲股市</summary>
+    
+    
+    
+    
+    <category term="stocks" scheme="https://github.com/speechless42/speechless42.github.io/tags/stocks/"/>
     
   </entry>
   

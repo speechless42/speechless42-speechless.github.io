@@ -1,4 +1,4 @@
-const VERSION = "1749198127322";const preCache = ["/images/taichi.png","/images/banner.webp","/css/loader.css","/css/style.css","/js/script.js"];const cacheDomain = [
+const VERSION = "1749223013539";const preCache = ["/speechless42/speechless42.github.io/images/taichi.png","/speechless42/speechless42.github.io/images/banner.webp","/speechless42/speechless42.github.io/css/loader.css","/speechless42/speechless42.github.io/css/style.css","/speechless42/speechless42.github.io/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
