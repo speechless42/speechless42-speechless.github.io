@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-05-30T15:45:29.443Z</updated>
+  <updated>2025-06-10T18:11:19.956Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,91 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>彼得林區六大類股票買進與賣出策略</title>
+    <link href="http://example.com/2025/06/10/stocks/peter_lynch/peterBuyAndSell/"/>
+    <id>http://example.com/2025/06/10/stocks/peter_lynch/peterBuyAndSell/</id>
+    <published>2025-06-10T10:00:00.000Z</published>
+    <updated>2025-06-10T18:11:19.956Z</updated>
+    
+    
+    <summary type="html">彼得林區的六大類股票</summary>
+    
+    
+    
+    
+    <category term="stocks-peter" scheme="http://example.com/tags/stocks-peter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼得林區本益比</title>
+    <link href="http://example.com/2025/06/10/stocks/peter_lynch/peterPe/"/>
+    <id>http://example.com/2025/06/10/stocks/peter_lynch/peterPe/</id>
+    <published>2025-06-10T10:00:00.000Z</published>
+    <updated>2025-06-10T18:12:34.848Z</updated>
+    
+    
+    <summary type="html">彼得林區本益比</summary>
+    
+    
+    
+    
+    <category term="stocks-peter" scheme="http://example.com/tags/stocks-peter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼得林區選股介紹</title>
+    <link href="http://example.com/2025/06/10/stocks/peter_lynch/peterIntroduce/"/>
+    <id>http://example.com/2025/06/10/stocks/peter_lynch/peterIntroduce/</id>
+    <published>2025-06-10T10:00:00.000Z</published>
+    <updated>2025-06-10T07:25:42.861Z</updated>
+    
+    
+    <summary type="html">彼得林區</summary>
+    
+    
+    
+    
+    <category term="stocks-peter" scheme="http://example.com/tags/stocks-peter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼得林區六大類股票</title>
+    <link href="http://example.com/2025/06/10/stocks/peter_lynch/peterSixTypeStocks/"/>
+    <id>http://example.com/2025/06/10/stocks/peter_lynch/peterSixTypeStocks/</id>
+    <published>2025-06-10T10:00:00.000Z</published>
+    <updated>2025-06-10T07:44:36.618Z</updated>
+    
+    
+    <summary type="html">彼得林區的六大類股票</summary>
+    
+    
+    
+    
+    <category term="stocks-peter" scheme="http://example.com/tags/stocks-peter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼得林區的總結與心得</title>
+    <link href="http://example.com/2025/06/10/stocks/peter_lynch/peterThought/"/>
+    <id>http://example.com/2025/06/10/stocks/peter_lynch/peterThought/</id>
+    <published>2025-06-10T10:00:00.000Z</published>
+    <updated>2025-06-10T18:56:12.492Z</updated>
+    
+    
+    <summary type="html">彼得林區</summary>
+    
+    
+    
+    
+    <category term="stocks-peter" scheme="http://example.com/tags/stocks-peter/"/>
+    
+  </entry>
   
   <entry>
     <title>逛本部落格指南</title>
@@ -43,7 +128,7 @@
     <link href="http://example.com/2025/05/22/stocks/william_oneil/williamCanslim/"/>
     <id>http://example.com/2025/05/22/stocks/william_oneil/williamCanslim/</id>
     <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T15:52:30.209Z</updated>
+    <updated>2025-06-10T06:58:54.824Z</updated>
     
     
     <summary type="html">笑傲股市</summary>
@@ -51,7 +136,7 @@
     
     
     
-    <category term="stocks" scheme="http://example.com/tags/stocks/"/>
+    <category term="stock-william" scheme="http://example.com/tags/stock-william/"/>
     
   </entry>
   
@@ -73,11 +158,11 @@
   </entry>
   
   <entry>
-    <title>笑傲股市完篇心得</title>
-    <link href="http://example.com/williamThought/"/>
-    <id>http://example.com/williamThought/</id>
+    <title>笑傲股市第三篇 如何賣</title>
+    <link href="http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/"/>
+    <id>http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/</id>
     <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T15:51:46.651Z</updated>
+    <updated>2025-06-06T15:51:17.163Z</updated>
     
     
     <summary type="html">笑傲股市</summary>
@@ -90,11 +175,11 @@
   </entry>
   
   <entry>
-    <title>笑傲股市第三篇 如何賣</title>
-    <link href="http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/"/>
-    <id>http://example.com/2025/05/22/stocks/william_oneil/williamSellStocks/</id>
+    <title>笑傲股市完篇心得</title>
+    <link href="http://example.com/williamThought/"/>
+    <id>http://example.com/williamThought/</id>
     <published>2025-05-22T10:00:00.000Z</published>
-    <updated>2025-06-06T15:51:17.163Z</updated>
+    <updated>2025-06-06T15:51:46.651Z</updated>
     
     
     <summary type="html">笑傲股市</summary>
